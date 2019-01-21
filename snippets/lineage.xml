@@ -78,6 +78,12 @@
   <project path="vendor/qcom/opensource/interfaces" name="LineageOS/android_vendor_qcom_opensource_interfaces" groups="qcom,pdk-qcom" />
   <project path="vendor/qcom/opensource/thermal-engine" name="LineageOS/android_vendor_qcom_opensource_thermal-engine" groups="qcom,pdk-qcom" />
 
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" />
+
+  <project path="kernel/xiaomi/sdm660" name="xiaomi-sdm660/android_kernel_xiaomi_sdm660" revision="master" />
+  <project path="device/xiaomi/jasmine" name="xiaomi-sdm660/android_device_xiaomi_jasmine" revision="los-16.0-new" />
+  <project path="device/xiaomi/sdm660-common" name="xiaomi-sdm660/android_device_xiaomi_sdm660-common" revision="los-16.0-new" />
+  <project path="vendor/xiaomi/jasmine" name="xiaomi-sdm660/android_vendor_xiaomi_jasmine" revision="los-16.0-new" />
 
   <!-- Tools -->
   <project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="master" />
