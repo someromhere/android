@@ -81,7 +81,7 @@
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" />
 
   <project path="kernel/xiaomi/sdm660" name="xiaomi-sdm660/android_kernel_xiaomi_sdm660" revision="master" />
-  <project path="device/xiaomi/jasmine" name="someromhere/android_device_xiaomi_jasmine" revision="los-16.0-new" />
+  <project path="device/xiaomi/jasmine" name="xiaomi-sdm660/android_device_xiaomi_jasmine" revision="los-16.0-new" />
   <project path="device/xiaomi/sdm660-common" name="xiaomi-sdm660/android_device_xiaomi_sdm660-common" revision="los-16.0-new" />
   <project path="vendor/xiaomi/jasmine" name="xiaomi-sdm660/android_vendor_xiaomi_jasmine" revision="los-16.0-new" />
 
