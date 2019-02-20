@@ -40,7 +40,7 @@
   <project path="packages/apps/SetupWizard" name="someromhere/android_packages_apps_SetupWizard" />
   <project path="packages/apps/Trebuchet" name="someromhere/android_packages_apps_Trebuchet" />
   <project path="packages/apps/Updater" name="someromhere/android_packages_apps_Updater" />
-  <project path="packages/overlays/Lineage" name="LineageOS/android_packages_overlays_Lineage" />
+  <project path="packages/overlays/Lineage" name="someromhere/android_packages_overlays_Lineage" />
   <project path="packages/providers/WeatherProvider" name="LineageOS/android_packages_providers_WeatherProvider" />
   <project path="system/extras/su" name="LineageOS/android_system_extras_su" />
   <project path="vendor/lineage" name="someromhere/android_vendor_lineage" />
