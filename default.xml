@@ -490,7 +490,7 @@
   <project path="packages/apps/Contacts" name="someromhere/android_packages_apps_Contacts-1" revision="android-9.0" />
   <project path="packages/apps/DeskClock" name="someromhere/android_packages_apps_DeskClock" groups="pdk-fs" />
   <project path="packages/apps/Dialer" name="someromhere/android_packages_apps_Dialer" groups="pdk-fs" />
-  <project path="packages/apps/DocumentsUI" name="someromhere/android_packages_apps_DocumentsUI" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/apps/DocumentsUI" name="someromhere/android_packages_apps_DocumentsUI-1" revision="pie" />
   <project path="packages/apps/Email" name="LineageOS/android_packages_apps_Email" groups="pdk-fs" />
   <project path="packages/apps/EmergencyInfo" name="LineageOS/android_packages_apps_EmergencyInfo" groups="pdk-fs" />
   <project path="packages/apps/ExactCalculator" name="someromhere/android_packages_apps_ExactCalculator" groups="pdk-fs" />
