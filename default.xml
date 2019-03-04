@@ -420,7 +420,7 @@
   <project path="frameworks/opt/net/wifi" name="LineageOS/android_frameworks_opt_net_wifi" groups="pdk" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="frameworks/opt/setupwizard" name="someromhere/android_frameworks_opt_setupwizard" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/opt/telephony" name="DirtyUnicorns/android_frameworks_opt_telephony" revision="p9x-caf" />
+  <project path="frameworks/opt/telephony" name="someromhere/android_frameworks_opt_telephony" revision="lineage-16.0" />
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" remote="aosp" />
