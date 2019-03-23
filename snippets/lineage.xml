@@ -90,7 +90,8 @@
   <project name="crdroidandroid/android_device_qcom_common" path="device/qcom/common" remote="github" revision="9.0" />
   
   <project name="coderzstas/packages_apps_Fries" path="packages/apps/Fries" remote="github" revision="baked-release" />
-
+  <project path="packages/apps/WeatherClient" name="DirtyUnicorns/android_packages_apps_WeatherClient" remote="github" revision="p9x" />
+  
   <!-- Tools -->
   <project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="master" />
 </manifest>
