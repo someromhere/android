@@ -92,7 +92,7 @@
   <project name="someromhere/packages_apps_Fries" path="packages/apps/Fries" remote="github" revision="baked-release" />
   <project path="packages/apps/WeatherClient" name="DirtyUnicorns/android_packages_apps_WeatherClient" remote="github" revision="p9x" />
   
-  <project name="AOSDP/android_external_hardened_malloc" path="external/hardened/malloc" remote="github" revision="9.0" />
+  <project name="AOSDP/android_external_hardened_malloc" path="external/hardened_malloc" remote="github" revision="9.0" />
   <!-- Tools -->
   <project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="master" />
 </manifest>
