@@ -91,7 +91,8 @@
   <project path="packages/apps/WeatherClient" name="los-darkphoenix/android_packages_apps_WeatherClient" remote="github" revision="lineage-16.0" />
   <project path="vendor/interfaces" name="boulzordev/vendor_interfaces" remote="github" revision="pie" />
   <project name="GrapheneOS/hardened_malloc" path="external/hardened_malloc" remote="github" revision="master" />
-
+  <!-- Bromite SystemWebView prebuilt-->
+  <project path="external/bromite-webview" name="MSe1969/android_external_bromite-webview" revision="master" />
   <project path="prebuilts/prebuiltapks" name="lineageos4microg/android_prebuilts_prebuiltapks" clone-depth="1" revision="master" />
   <project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="master" />
 </manifest>
