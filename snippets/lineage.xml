@@ -88,7 +88,7 @@
   <project name="crdroidandroid/android_device_qcom_common" path="device/qcom/common" remote="github" revision="9.0" />
   
   <project name="someromhere/packages_apps_Fries" path="packages/apps/Fries" remote="github" revision="baked-release" />
-  <project path="packages/apps/WeatherClient" name="los-darkphoenix/android_packages_apps_WeatherClient" remote="github" revision="lineage-16.0" />
+  <project path="packages/apps/WeatherClient" name="DirtyUnicorns/android_packages_apps_WeatherClient" remote="github" revision="p9x" />
   <project path="vendor/interfaces" name="boulzordev/vendor_interfaces" remote="github" revision="pie" />
   <project name="GrapheneOS/hardened_malloc" path="external/hardened_malloc" remote="github" revision="master" />
   <!-- Bromite SystemWebView prebuilt-->
