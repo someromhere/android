@@ -93,6 +93,5 @@
   <project name="GrapheneOS/hardened_malloc" path="external/hardened_malloc" remote="github" revision="master" />
   <!-- Bromite SystemWebView prebuilt-->
   <project path="external/bromite-webview" name="MSe1969/android_external_bromite-webview" revision="master" />
-  <project path="prebuilts/prebuiltapks" name="Iolaum/android_prebuilts_prebuiltapks" clone-depth="1" revision="iolaum" />
   <project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="master" />
 </manifest>
