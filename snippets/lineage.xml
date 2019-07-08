@@ -90,7 +90,6 @@
   <project name="someromhere/packages_apps_Fries" path="packages/apps/Fries" remote="github" revision="baked-release" />
   <project path="packages/apps/WeatherClient" name="DirtyUnicorns/android_packages_apps_WeatherClient" remote="github" revision="p9x" />
   <project name="GrapheneOS/hardened_malloc" path="external/hardened_malloc" remote="github" revision="master" />
-  <project path="packages/apps/ThermalController" name="someromhere/android_packages_apps_ThermalController" revision="pie" />
   <project path="external/bromite-webview" name="MSe1969/android_external_bromite-webview" revision="master" />
   <project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="master" />
 </manifest>
