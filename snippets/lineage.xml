@@ -86,7 +86,7 @@
   <project name="someromhere/android_device_oneplus_sdm845-common" path="device/oneplus/sdm845-common" remote="github" revision="lineage-16.0" />
   <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="lineage-16.0" />
   <project name="crdroidandroid/android_device_qcom_common" path="device/qcom/common" remote="github" revision="9.0" />
-  
+  <project path="packages/providers/AmbientPlayHistoryProvider" name="PixelExperience/packages_providers_AmbientPlayHistoryProvider" />
   <project name="someromhere/packages_apps_Fries" path="packages/apps/Fries" remote="github" revision="baked-release" />
   <project path="packages/apps/WeatherClient" name="DirtyUnicorns/android_packages_apps_WeatherClient" remote="github" revision="p9x" />
   <project name="GrapheneOS/hardened_malloc" path="external/hardened_malloc" remote="github" revision="master" />
