@@ -89,6 +89,6 @@
   <project path="packages/providers/AmbientPlayHistoryProvider" name="PixelExperience/packages_providers_AmbientPlayHistoryProvider" revision="pie" />
   <project name="someromhere/packages_apps_Fries" path="packages/apps/Fries" remote="github" revision="baked-release" />
   <project path="packages/apps/WeatherClient" name="DirtyUnicorns/android_packages_apps_WeatherClient" remote="github" revision="p9x" />
-  <project name="GrapheneOS/hardened_malloc" path="external/hardened_malloc" remote="github" revision="master" />
+  <project name="someromhere/hardened_malloc" path="external/hardened_malloc" remote="github" revision="master" />
   <project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="master" />
 </manifest>
